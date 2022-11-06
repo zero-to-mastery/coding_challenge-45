@@ -12,10 +12,6 @@ We have an exciting project to build with the help of Socket.IO, Web Speech API,
 
 4. Use whatever tools you have as developers (google, friends, Discord, programming buddy etc...) but I will not be offering any help with this challenge. Just like a developer, you must solve a problem and create something unique. Nobody will hold your hand during the job so we want to experience that by figuring it all out on your own with your team. 
 
-## Submissions:
-
-Student Submissions will be posted here at the end of the challenge:
-
 
 ## One Last Thing!
 
